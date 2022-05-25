@@ -1,0 +1,17 @@
+/Users/major/RiderProjects/project/project/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/major/RiderProjects/project/project/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/major/RiderProjects/project/project/bin/Debug/netcoreapp2.0/bundleconfig.json
+/Users/major/RiderProjects/project/project/bin/Debug/netcoreapp2.0/project.deps.json
+/Users/major/RiderProjects/project/project/bin/Debug/netcoreapp2.0/project.runtimeconfig.json
+/Users/major/RiderProjects/project/project/bin/Debug/netcoreapp2.0/project.runtimeconfig.dev.json
+/Users/major/RiderProjects/project/project/bin/Debug/netcoreapp2.0/project.dll
+/Users/major/RiderProjects/project/project/bin/Debug/netcoreapp2.0/project.pdb
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp2.0/project.csproj.AssemblyReference.cache
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp2.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp2.0/project.AssemblyInfoInputs.cache
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp2.0/project.AssemblyInfo.cs
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp2.0/project.csproj.CoreCompileInputs.cache
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp2.0/project.dll
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp2.0/project.pdb
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp2.0/project.genruntimeconfig.cache

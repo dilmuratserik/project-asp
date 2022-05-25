@@ -1,0 +1,8 @@
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp3.1/project.csproj.AssemblyReference.cache
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp3.1/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp3.1/project.AssemblyInfoInputs.cache
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp3.1/project.AssemblyInfo.cs
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp3.1/project.csproj.CoreCompileInputs.cache
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp3.1/project.MvcApplicationPartsAssemblyInfo.cache
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp3.1/project.RazorAssemblyInfo.cache
+/Users/major/RiderProjects/project/project/obj/Debug/netcoreapp3.1/project.RazorAssemblyInfo.cs
